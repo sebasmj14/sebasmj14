@@ -87,7 +87,7 @@
 
 <div align='center'>
 
-## <b>Gracias por el tiempo</b>
+## <b>Gracias por su tiempo</b>
 
 </div>
 <br>
