@@ -16,7 +16,7 @@
 
 <br>
 
-- Back-end Developer Junior.
+- Tester junior.
 - Actualmente mejorando mis  habilidades en Base de Datos ,C# ,Java y Spring boot.
 - Estudiante de Alura ,gracias ah esto no solo pude  desarrollar mis hardskills, si no tambien mis softskills con cetificados que lo respaldan.
 - Busco siempre poder aportar al equipo con lo que se ,pero tambien saber escuchar para aprender a mejorar mis habilidades y alguien que disfruta de aprender y superarse. 
